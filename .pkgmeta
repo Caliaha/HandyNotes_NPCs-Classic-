@@ -6,13 +6,13 @@ externals:
  libs/wrath/AceGUI-3.0-SharedMediaWidgets:
   url: svn://svn.wowace.com/wow/ace-gui-3-0-shared-media-widgets/mainline/trunk/AceGUI-3.0-SharedMediaWidgets
  libs/wrath/LibSharedMedia-3.0:
-  url: svn://svn.wowace.com/wow/libsharedmedia-3-0/mainline/trunk
+  url: svn://svn.wowace.com/wow/libsharedmedia-3-0/mainline/trunk/LibSharedMedia-3.0
   tag: latest
  libs/wrath/LibQTip-1.0:
   url: https://repos.wowace.com/wow/libqtip-1-0
- libs/wrath/LibDataBroker-1.1
+ libs/wrath/LibDataBroker-1.1:
   url: https://repos.curseforge.com/wow/libdatabroker-1-1
- libs/wrath/LibUIDropDownMenu
+ libs/wrath/LibUIDropDownMenu:
   url: https://repos.curseforge.com/wow/libuidropdownmenu/trunk/LibUIDropDownMenu
- libs/wrath/LibDBIcon-1.0
+ libs/wrath/LibDBIcon-1.0:
   url: https://repos.wowace.com/wow/libdbicon-1-0/trunk/LibDBIcon-1.0
