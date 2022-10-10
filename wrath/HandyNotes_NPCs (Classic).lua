@@ -121,6 +121,11 @@ function pluginHandler:OnEnter(uiMapId, coord)
 				tooltip:SetLineTextColor(2, 0, 0, 1, 1)
 			end
 		end
+		if nodeData.category == "flightmasters" then
+			if nodeData["fpName"] then
+				tooltip:AddLine(nodeData["fpName"])
+			end
+		end
 		if nodeData.subcategories and nodeData.subcategories["weaponmaster"] then
 			if nodeData.npcID and data["weaponmasters"][nodeData.npcID] then
 				for skill in data["weaponmasters"][nodeData.npcID]:gmatch("([^,]+)") do
@@ -333,7 +338,7 @@ do
 	end
 
 	function pluginHandler:GetNodes2(uiMapId, isMinimapUpdate)
-		print(uiMapId)
+		--print(uiMapId)
 		local C = HandyNotes:GetContinentZoneList(uiMapId) -- Is this a continent?
 		if C then
 			local tbl = next(tablepool) or {}
