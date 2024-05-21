@@ -2020,25 +2020,12 @@ nodes[1954] = {
 		description = L["Smokywood Pastures"],
 		faction = "Neutral",
 	},
-	[70204400] = {
-		name = L["Midsummer Merchant"],
-		npcID = 26124,
-		category = "vendors",
-		faction = "Horde",
-	},
 	[69802360] = {
 		name = L["Lelorian"],
 		npcID = 30727,
 		category = "vendors",
 		description = L["Inscription Supplies"],
 		faction = "Horde",
-	},
-	[64206700] = {
-		name = L["Lovely Merchant"],
-		npcID = 37674,
-		category = "vendors",
-		description = L["Crown Chemical Co."],
-		faction = "Neutral",
 	},
 	[78208480] = {
 		name = L["Larissia"],
@@ -2771,12 +2758,6 @@ nodes[1947] = {
 		description = L["Smokywood Pastures"],
 		faction = "Neutral",
 	},
-	[42402540] = {
-		name = L["Midsummer Supplier"],
-		npcID = 26123,
-		category = "vendors",
-		faction = "Alliance",
-	},
 	[39803900] = {
 		name = L["Sessoh"],
 		npcID = 30732,
@@ -2790,13 +2771,6 @@ nodes[1947] = {
 		category = "vendors",
 		description = L["Pilgrim's Bounty Vendor"],
 		faction = "Alliance",
-	},
-	[74005640] = {
-		name = L["Lovely Merchant"],
-		npcID = 37674,
-		category = "vendors",
-		description = L["Crown Chemical Co."],
-		faction = "Neutral",
 	},
 	[54403680] = {
 		name = L["Kadu"],
@@ -12482,12 +12456,6 @@ nodes[1453] = {
 		description = L["The Bravery"],
 		faction = "Alliance",
 	},
-	[49207180] = {
-		name = L["Midsummer Supplier"],
-		npcID = 26123,
-		category = "vendors",
-		faction = "Alliance",
-	},
 	[74205800] = {
 		name = L["Miles Sidney"],
 		npcID = 28347,
@@ -12525,13 +12493,6 @@ nodes[1453] = {
 		category = "vendors",
 		description = L["Veteran Armor Quartermaster"],
 		faction = "Alliance",
-	},
-	[62207520] = {
-		name = L["Lovely Merchant"],
-		npcID = 37674,
-		category = "vendors",
-		description = L["Crown Chemical Co."],
-		faction = "Neutral",
 	},
 	[65603140] = {
 		name = L["Colin Field"],
@@ -14573,12 +14534,6 @@ nodes[1454] = {
 		description = L["The Argent Dawn"],
 		faction = "Neutral",
 	},
-	[47203880] = {
-		name = L["Midsummer Merchant"],
-		npcID = 26124,
-		category = "vendors",
-		faction = "Horde",
-	},
 	[37406445] = {
 		name = L["Doris Chiltonius"],
 		npcID = 26398,
@@ -14641,13 +14596,6 @@ nodes[1454] = {
 		category = "vendors",
 		description = L["Jewelcrafting Quartermaster"],
 		faction = "Horde",
-	},
-	[53606620] = {
-		name = L["Lovely Merchant"],
-		npcID = 37674,
-		category = "vendors",
-		description = L["Crown Chemical Co."],
-		faction = "Neutral",
 	},
 	[71605020] = {
 		name = L["Gravy"],
@@ -15904,12 +15852,6 @@ nodes[1455] = {
 		description = L["The Argent Dawn"],
 		faction = "Neutral",
 	},
-	[64802600] = {
-		name = L["Midsummer Supplier"],
-		npcID = 26123,
-		category = "vendors",
-		faction = "Alliance",
-	},
 	[19205300] = {
 		name = L["Larkin Thunderbrew"],
 		npcID = 27478,
@@ -15965,13 +15907,6 @@ nodes[1455] = {
 		category = "vendors",
 		description = L["Inscription Supplies"],
 		faction = "Alliance",
-	},
-	[33606640] = {
-		name = L["Lovely Merchant"],
-		npcID = 37674,
-		category = "vendors",
-		description = L["Crown Chemical Co."],
-		faction = "Neutral",
 	},
 	[55604805] = {
 		name = L["Master Tinker Trini"],
@@ -16811,12 +16746,6 @@ nodes[1456] = {
 		description = L["The Argent Dawn"],
 		faction = "Neutral",
 	},
-	[21002440] = {
-		name = L["Midsummer Merchant"],
-		npcID = 26124,
-		category = "vendors",
-		faction = "Horde",
-	},
 	[28802065] = {
 		name = L["Mertle Murkpen"],
 		npcID = 30724,
@@ -16844,13 +16773,6 @@ nodes[1456] = {
 		category = "vendors",
 		description = L["Pilgrim's Bounty Supplies"],
 		faction = "Horde",
-	},
-	[43605320] = {
-		name = L["Lovely Merchant"],
-		npcID = 37674,
-		category = "vendors",
-		description = L["Crown Chemical Co."],
-		faction = "Neutral",
 	},
 	[46805005] = {
 		name = L["Brave Tuho"],
@@ -17857,13 +17779,6 @@ nodes[1457] = {
 		description = L["Pilgrim's Bounty Supplies"],
 		faction = "Alliance",
 	},
-	[42005160] = {
-		name = L["Lovely Merchant"],
-		npcID = 37674,
-		category = "vendors",
-		description = L["Crown Chemical Co."],
-		faction = "Neutral",
-	},
 	[36404840] = {
 		name = L["Moon Priestess Lasara"],
 		npcID = 50305,
@@ -18857,12 +18772,6 @@ nodes[1458] = {
 		description = L["The Argent Dawn"],
 		faction = "Neutral",
 	},
-	[67801100] = {
-		name = L["Midsummer Merchant"],
-		npcID = 26124,
-		category = "vendors",
-		faction = "Horde",
-	},
 	[61605800] = {
 		name = L["Ickabod Pimlen"],
 		npcID = 30729,
@@ -18890,13 +18799,6 @@ nodes[1458] = {
 		category = "vendors",
 		description = L["Pilgrim's Bounty Supplies"],
 		faction = "Horde",
-	},
-	[66003840] = {
-		name = L["Lovely Merchant"],
-		npcID = 37674,
-		category = "vendors",
-		description = L["Crown Chemical Co."],
-		faction = "Neutral",
 	},
 	[63004860] = {
 		name = L["Captain Donald Adams"],
@@ -87463,12 +87365,6 @@ nodes[1438] = {
 		npcID = 24993,
 		category = "vendors",
 		description = L["The Moonspray"],
-		faction = "Alliance",
-	},
-	[56009220] = {
-		name = L["Midsummer Supplier"],
-		npcID = 26123,
-		category = "vendors",
 		faction = "Alliance",
 	},
 	[56005860] = {
