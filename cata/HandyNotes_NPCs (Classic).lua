@@ -64,6 +64,7 @@ PROFESSIONS[L["Skinning"]] = "Skinning"
 PROFESSIONS[L["Cooking"]] = "Cooking"
 PROFESSIONS[L["First Aid"]] = "First Aid"
 PROFESSIONS[L["Fishing"]] = "Fishing"
+PROFESSIONS[L["Archaeology"]] = "Archaeology"
 
 local db, learned
 local _, class, faction
