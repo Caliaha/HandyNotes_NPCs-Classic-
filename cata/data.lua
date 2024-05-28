@@ -138568,7 +138568,7 @@ nodes[1421] = {
 		faction = "Neutral",
 	},
 }
-nodes[224] = {
+nodes[210] = {
 	[55604120] = {
 		name = L["Colin Swifthammer"],
 		category = "flightmasters",
@@ -138721,7 +138721,22 @@ nodes[224] = {
 		description = L["Trade Goods"],
 		faction = "Neutral",
 	},
+	[48005840] = {
+		name = L["Kurmokk"],
+		category = "rares",
+		faction = "Neutral",
+	},
 	[49605660] = {
+		name = L["Kurmokk"],
+		category = "rares",
+		faction = "Neutral",
+	},
+	[50205560] = {
+		name = L["Kurmokk"],
+		category = "rares",
+		faction = "Neutral",
+	},
+	[50805440] = {
 		name = L["Kurmokk"],
 		category = "rares",
 		faction = "Neutral",
@@ -138761,6 +138776,12 @@ nodes[224] = {
 		category = "rares",
 		faction = "Neutral",
 	},
+	[52402960] = {
+		name = L["Verifonix"],
+		category = "rares",
+		description = L["The Surveyor"],
+		faction = "Neutral",
+	},
 	[52802880] = {
 		name = L["Verifonix"],
 		category = "rares",
@@ -138780,27 +138801,6 @@ nodes[224] = {
 		faction = "Neutral",
 	},
 	[53602720] = {
-		name = L["Verifonix"],
-		category = "rares",
-		description = L["The Surveyor"],
-		faction = "Neutral",
-	},
-	[48005840] = {
-		name = L["Kurmokk"],
-		category = "rares",
-		faction = "Neutral",
-	},
-	[50205560] = {
-		name = L["Kurmokk"],
-		category = "rares",
-		faction = "Neutral",
-	},
-	[50805440] = {
-		name = L["Kurmokk"],
-		category = "rares",
-		faction = "Neutral",
-	},
-	[52402960] = {
 		name = L["Verifonix"],
 		category = "rares",
 		description = L["The Surveyor"],
@@ -151558,6 +151558,93 @@ nodes[1430] = {
 		name = L["Apprentice Darius"],
 		npcID = 18255,
 		category = "vendors",
+		faction = "Neutral",
+	},
+}
+nodes[224] = {
+	[49605660] = {
+		name = L["Kurmokk"],
+		category = "rares",
+		faction = "Neutral",
+	},
+	[50805460] = {
+		name = L["Kurmokk"],
+		category = "rares",
+		faction = "Neutral",
+	},
+	[50805560] = {
+		name = L["Kurmokk"],
+		category = "rares",
+		faction = "Neutral",
+	},
+	[52805320] = {
+		name = L["Kurmokk"],
+		category = "rares",
+		faction = "Neutral",
+	},
+	[54605200] = {
+		name = L["Kurmokk"],
+		category = "rares",
+		faction = "Neutral",
+	},
+	[56405000] = {
+		name = L["Kurmokk"],
+		category = "rares",
+		faction = "Neutral",
+	},
+	[57204920] = {
+		name = L["Kurmokk"],
+		category = "rares",
+		faction = "Neutral",
+	},
+	[58004820] = {
+		name = L["Kurmokk"],
+		category = "rares",
+		faction = "Neutral",
+	},
+	[52802880] = {
+		name = L["Verifonix"],
+		category = "rares",
+		description = L["The Surveyor"],
+		faction = "Neutral",
+	},
+	[53002720] = {
+		name = L["Verifonix"],
+		category = "rares",
+		description = L["The Surveyor"],
+		faction = "Neutral",
+	},
+	[53202780] = {
+		name = L["Verifonix"],
+		category = "rares",
+		description = L["The Surveyor"],
+		faction = "Neutral",
+	},
+	[53602720] = {
+		name = L["Verifonix"],
+		category = "rares",
+		description = L["The Surveyor"],
+		faction = "Neutral",
+	},
+	[48005840] = {
+		name = L["Kurmokk"],
+		category = "rares",
+		faction = "Neutral",
+	},
+	[50205560] = {
+		name = L["Kurmokk"],
+		category = "rares",
+		faction = "Neutral",
+	},
+	[50805440] = {
+		name = L["Kurmokk"],
+		category = "rares",
+		faction = "Neutral",
+	},
+	[52402960] = {
+		name = L["Verifonix"],
+		category = "rares",
+		description = L["The Surveyor"],
 		faction = "Neutral",
 	},
 }
